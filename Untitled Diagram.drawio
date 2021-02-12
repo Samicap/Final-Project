@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-12T20:30:55.032Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="GyyPHZv1kfuvWvCwjPS3" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-12T20:32:54.468Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="J5My2jfTAdT4eNkQx3ec" version="14.3.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1448" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
         <mxCell id="m7V7Sn8osEWsgWAGHdAP-14" value="Inbox" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-240" y="220" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="m7V7Sn8osEWsgWAGHdAP-16" value="Read Messages" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;shadow=0;strokeWidth=1;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="m7V7Sn8osEWsgWAGHdAP-16" value="Open Message" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;shadow=0;strokeWidth=1;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-20" y="210" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="m7V7Sn8osEWsgWAGHdAP-18" value="Create new Message" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
