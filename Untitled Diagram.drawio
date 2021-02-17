@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T18:58:18.660Z" agent="5.0 (Macintosh)" etag="9ALzY0iga1wC8lTwHHGp" version="14.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-17T19:13:42.975Z" agent="5.0 (Macintosh)" etag="wjihepBWBJZrBjiQjrIk" version="14.4.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="MVP Flow chart">
     <mxGraphModel dx="2737" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,8 +40,10 @@
         <mxCell id="m7V7Sn8osEWsgWAGHdAP-10" value="&lt;div&gt;&quot;/Netflix&quot;&lt;/div&gt;&lt;div&gt;Choose user&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;strokeWidth=1;glass=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-40" y="60" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="m7V7Sn8osEWsgWAGHdAP-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="m7V7Sn8osEWsgWAGHdAP-12" target="m7V7Sn8osEWsgWAGHdAP-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="m7V7Sn8osEWsgWAGHdAP-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="m7V7Sn8osEWsgWAGHdAP-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-490" y="220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="kK63E5BtAxR1k83QR-6p-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="m7V7Sn8osEWsgWAGHdAP-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -60,7 +62,7 @@
             <mxPoint x="-180" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m7V7Sn8osEWsgWAGHdAP-14" value="&lt;div&gt;(&#39;/Outbox&#39;)&lt;/div&gt;&lt;div&gt;(Create New Message)&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="m7V7Sn8osEWsgWAGHdAP-14" value="&lt;div&gt;(&#39;/Outbox&#39;)&lt;/div&gt;&lt;div&gt;(Create New Message)&lt;/div&gt;&lt;div&gt;Random Pen Pal Finder&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-600" y="210" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="m7V7Sn8osEWsgWAGHdAP-20" value="Create Child profile" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -92,6 +94,9 @@
         </mxCell>
         <mxCell id="d32U4PatCqtajsgmt4SY-4" value="&lt;div&gt;When user hit submit button what happens next?&lt;/div&gt;&lt;div&gt;Pop up with: sent successfully&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;Redirect to outbox with updated sent messages logged (like tweeter?)&lt;br&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=30;position=0.5;base=30;position2=0.94;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-890" y="80" width="360" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="d32U4PatCqtajsgmt4SY-6" value="Machine Learning (Francis) or some sort of spell check" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.5;base=70;size=40;position=0.58;direction=west;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-660" y="310" width="200" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
