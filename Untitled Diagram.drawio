@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-12T20:34:36.371Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="bQ1RlYGbMN5HPIAA0pNR" version="14.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-17T18:52:35.573Z" agent="5.0 (Macintosh)" etag="zi36TrmTwQ1vrWGEiGHY" version="14.4.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="MVP Flow chart">
-    <mxGraphModel dx="1773" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1910" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -10,8 +10,8 @@
         <mxCell id="m7V7Sn8osEWsgWAGHdAP-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="m7V7Sn8osEWsgWAGHdAP-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Landing Page" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;div&gt;root page(&#39; / &#39;)&lt;/div&gt;&lt;div&gt;Logo&lt;br&gt;&lt;/div&gt;Login &amp;amp; Sign Up(stretch)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m7V7Sn8osEWsgWAGHdAP-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="m7V7Sn8osEWsgWAGHdAP-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -37,26 +37,29 @@
         <mxCell id="m7V7Sn8osEWsgWAGHdAP-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="m7V7Sn8osEWsgWAGHdAP-10" target="m7V7Sn8osEWsgWAGHdAP-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m7V7Sn8osEWsgWAGHdAP-10" value="Login" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="m7V7Sn8osEWsgWAGHdAP-10" value="&lt;div&gt;&quot;/Netflix&quot;&lt;/div&gt;&lt;div&gt;Choose user&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;strokeWidth=1;glass=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-40" y="60" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="m7V7Sn8osEWsgWAGHdAP-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="m7V7Sn8osEWsgWAGHdAP-12" target="m7V7Sn8osEWsgWAGHdAP-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kK63E5BtAxR1k83QR-6p-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="m7V7Sn8osEWsgWAGHdAP-12" target="m7V7Sn8osEWsgWAGHdAP-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="kK63E5BtAxR1k83QR-6p-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="m7V7Sn8osEWsgWAGHdAP-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="50" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="20" y="40" />
+              <mxPoint x="600" y="40" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="m7V7Sn8osEWsgWAGHdAP-12" value="Chose Profile" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-240" y="60" width="120" height="80" as="geometry" />
+        <mxCell id="m7V7Sn8osEWsgWAGHdAP-12" value="&lt;div&gt;&quot;/message/children/:id&quot; &lt;br&gt;&lt;/div&gt;&lt;div&gt;Child Inbox&lt;/div&gt;&lt;div&gt;Can open messages&lt;/div&gt;&lt;div&gt;Progress Bar&lt;/div&gt;&lt;div&gt;Filter Messages&lt;/div&gt;&lt;div&gt;Delete messages&lt;/div&gt;&lt;div&gt;Profile: Avatar, Name, Age, Location,&lt;/div&gt;&lt;div&gt;Badges,&lt;/div&gt;&lt;div&gt;Stretch: When over over Child 2 name see their profile&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;strokeWidth=1;glass=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-370" y="-10" width="190" height="200" as="geometry" />
         </mxCell>
         <mxCell id="m7V7Sn8osEWsgWAGHdAP-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="m7V7Sn8osEWsgWAGHdAP-14" target="m7V7Sn8osEWsgWAGHdAP-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m7V7Sn8osEWsgWAGHdAP-14" value="Inbox" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-240" y="220" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="m7V7Sn8osEWsgWAGHdAP-16" value="Open Message" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;shadow=0;strokeWidth=1;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-20" y="210" width="80" height="100" as="geometry" />
+        <mxCell id="m7V7Sn8osEWsgWAGHdAP-14" value="&lt;div&gt;(&#39;/Outbox&#39;)&lt;/div&gt;&lt;div&gt;(Create New Message)&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-600" y="210" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="m7V7Sn8osEWsgWAGHdAP-18" value="Create new Message" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-220" y="380" width="80" height="80" as="geometry" />
@@ -68,10 +71,10 @@
           <mxGeometry x="700" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kK63E5BtAxR1k83QR-6p-0" value="Child?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-180" y="170" width="40" height="20" as="geometry" />
+          <mxGeometry x="-100" y="80" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kK63E5BtAxR1k83QR-6p-9" value="Parent?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-170" y="20" width="40" height="20" as="geometry" />
+          <mxGeometry x="30" y="20" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kK63E5BtAxR1k83QR-6p-15" value="Messages&lt;br&gt;/Alerts" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="670" y="280" width="80" height="100" as="geometry" />
@@ -82,11 +85,11 @@
             <mxPoint x="550" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kK63E5BtAxR1k83QR-6p-18" value="" style="endArrow=none;html=1;entryX=-0.012;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="m7V7Sn8osEWsgWAGHdAP-16" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-130" y="270" as="sourcePoint" />
-            <mxPoint x="-80" y="220" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="d32U4PatCqtajsgmt4SY-2" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="250" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d32U4PatCqtajsgmt4SY-3" value="Change the Link to name?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-270" y="-80" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
