@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T18:53:03.336Z" agent="5.0 (Macintosh)" etag="ZEEVa4AK2QVeXmxdKaHc" version="14.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-17T18:58:18.660Z" agent="5.0 (Macintosh)" etag="9ALzY0iga1wC8lTwHHGp" version="14.4.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="MVP Flow chart">
-    <mxGraphModel dx="1910" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2737" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -89,6 +89,9 @@
         </mxCell>
         <mxCell id="d32U4PatCqtajsgmt4SY-3" value="Change the Link to name?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-270" y="-80" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="d32U4PatCqtajsgmt4SY-4" value="&lt;div&gt;When user hit submit button what happens next?&lt;/div&gt;&lt;div&gt;Pop up with: sent successfully&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;Redirect to outbox with updated sent messages logged (like tweeter?)&lt;br&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=30;position=0.5;base=30;position2=0.94;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-890" y="80" width="360" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
