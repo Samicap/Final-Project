@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T18:52:35.573Z" agent="5.0 (Macintosh)" etag="zi36TrmTwQ1vrWGEiGHY" version="14.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-17T18:53:03.336Z" agent="5.0 (Macintosh)" etag="ZEEVa4AK2QVeXmxdKaHc" version="14.4.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="MVP Flow chart">
     <mxGraphModel dx="1910" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,14 +55,13 @@
         <mxCell id="m7V7Sn8osEWsgWAGHdAP-12" value="&lt;div&gt;&quot;/message/children/:id&quot; &lt;br&gt;&lt;/div&gt;&lt;div&gt;Child Inbox&lt;/div&gt;&lt;div&gt;Can open messages&lt;/div&gt;&lt;div&gt;Progress Bar&lt;/div&gt;&lt;div&gt;Filter Messages&lt;/div&gt;&lt;div&gt;Delete messages&lt;/div&gt;&lt;div&gt;Profile: Avatar, Name, Age, Location,&lt;/div&gt;&lt;div&gt;Badges,&lt;/div&gt;&lt;div&gt;Stretch: When over over Child 2 name see their profile&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;strokeWidth=1;glass=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-370" y="-10" width="190" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="m7V7Sn8osEWsgWAGHdAP-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="m7V7Sn8osEWsgWAGHdAP-14" target="m7V7Sn8osEWsgWAGHdAP-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="m7V7Sn8osEWsgWAGHdAP-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="m7V7Sn8osEWsgWAGHdAP-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-180" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="m7V7Sn8osEWsgWAGHdAP-14" value="&lt;div&gt;(&#39;/Outbox&#39;)&lt;/div&gt;&lt;div&gt;(Create New Message)&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-600" y="210" width="220" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="m7V7Sn8osEWsgWAGHdAP-18" value="Create new Message" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-220" y="380" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="m7V7Sn8osEWsgWAGHdAP-20" value="Create Child profile" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="480" y="340" width="120" height="80" as="geometry" />
